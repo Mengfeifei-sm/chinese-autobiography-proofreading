@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.dsh-office-*/
+_skill_test_output/
+_skill_test_reports/
+ocr_cache/
+input/
+output/
+reports/
+*.pdf
+*.docx
