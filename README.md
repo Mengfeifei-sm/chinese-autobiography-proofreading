@@ -30,7 +30,7 @@ requirements.txt
 Copy or clone this repository into the Codex skills directory:
 
 ```powershell
-git clone https://github.com/<your-account>/chinese-autobiography-proofreading.git `
+git clone https://github.com/Mengfeifei-sm/chinese-autobiography-proofreading.git `
   "$env:USERPROFILE\.codex\skills\chinese-autobiography-proofreading"
 ```
 
